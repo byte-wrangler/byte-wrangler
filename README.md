@@ -4,10 +4,10 @@
 
 ### 🚀 后端 Java 开发工程师
 
-[![GitHub followers](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
+[![GitHub followers](https://img.shields.io/github/followers/byte-wrangler?style=social)](https://github.com/byte-wrangler)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](你的LinkedIn链接)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:你的邮箱)
-![Profile Views](https://komarev.com/ghpvc/?username=你的用户名&color=brightgreen)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wuqiang.work@qq.com)
+![Profile Views](https://komarev.com/ghpvc/?username=byte-wrangler&color=brightgreen)
 
 </div>
 
@@ -15,12 +15,13 @@
 
 ## 🙋‍♂️ 关于我
 
-- 🔭 目前在 **[公司名称]** 担任后端开发工程师
-- 💼 专注于 **分布式系统**、**微服务架构** 和 **高并发场景**
-- 🌱 正在深入学习 **云原生技术栈** 和 **系统架构设计**
-- 💡 热衷于研究 **性能优化**、**系统稳定性** 和 **可扩展性**
+- 🔭 目前在 **[Alibaba]** 担任后端开发工程师
+- 🔍 业务面向 **知识产权保护**、**原创素材保护** 和 **业务规则引擎构建**
+- 💼 专注于 **业务模块抽象**、**领域驱动设计** 和 **业务Ai-Agent构建**
+- 🌱 正在深入学习 **agent构建范式** 和 **SDD Ai-Coding**
+- 💡 热衷于研究 **框架原理**、**框架思想** 和 **手搓轮子**
 - 📝 偶尔在 [博客地址] 分享技术心得
-- 💬 欢迎与我交流 Java 后端、分布式系统、数据库优化等话题
+- 💬 欢迎与我交流 Java 后端、业务抽象、ai-coding、agent构建等话题
 
 ---
 
@@ -31,20 +32,15 @@
 #### 编程语言
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### 框架 & 中间件
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 #### 数据库
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 #### 消息队列
@@ -60,7 +56,6 @@
 #### 工具 & 平台
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -70,11 +65,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byte-wrangler&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-wrangler&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byte-wrangler&theme=radical&hide_border=true)
 
 </div>
 
@@ -128,7 +123,7 @@
 
 ---
 
-## 🎯 2024 年目标
+## 🎯 2025 年目标
 
 - [ ] 深入研究云原生技术栈
 - [ ] 贡献更多开源项目
@@ -140,7 +135,7 @@
 
 ## 📈 贡献图
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byte-wrangler&theme=react-dark&hide_border=true)
 
 ---
 
@@ -155,10 +150,9 @@
 
 ## 📫 联系方式
 
-- 📧 Email: 你的邮箱
-- 💼 LinkedIn: [你的LinkedIn](链接)
+- 📧 Email: wuqiang.work@qq.com
 - 📝 博客: [你的博客](链接)
-- 🐦 微信: 你的微信号（或二维码）
+- 🐦 微信: wuqiangicq
 
 ---
 
@@ -168,6 +162,6 @@
 
 *"Stay hungry, stay foolish."*
 
-⭐️ From [你的用户名](https://github.com/你的用户名)
+⭐️ From [byte-wrangler](https://github.com/byte-wrangler)
 
 </div>
