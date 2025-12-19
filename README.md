@@ -5,7 +5,6 @@
 ### 🚀 后端 Java 开发工程师
 
 [![GitHub followers](https://img.shields.io/github/followers/byte-wrangler?style=social)](https://github.com/byte-wrangler)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](你的LinkedIn链接)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wuqiang.work@qq.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=byte-wrangler&color=brightgreen)
 
@@ -16,8 +15,8 @@
 ## 🙋‍♂️ 关于我
 
 - 🔭 目前在 **[Alibaba]** 担任后端开发工程师
-- 🔍 业务面向 **知识产权保护**、**原创素材保护** 和 **业务规则引擎构建**
-- 💼 专注于 **业务模块抽象**、**领域驱动设计** 和 **业务Ai-Agent构建**
+- 🔍 业务面向 **知识产权保护**、**原创素材保护**、**业务规则引擎构建**
+- 💼 专注于 **业务模块抽象**、**领域驱动设计**、**业务Ai-Agent构建**
 - 🌱 正在深入学习 **agent构建范式** 和 **SDD Ai-Coding**
 - 💡 热衷于研究 **框架原理**、**框架思想** 和 **手搓轮子**
 - 📝 偶尔在 [博客地址] 分享技术心得
