@@ -4,7 +4,7 @@
 
 ### 🚀 后端 Java 开发工程师
 
-[![GitHub followers](https://img.shields.io/github/followers/byte-wrangler?style=for-the-badge&logo=github&label=Follow)](https://byte-wrangler.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-brightgreen?style=social&logo=github)](https://byte-wrangler.github.io)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wuqiang.work@qq.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=byte-wrangler&color=brightgreen)
 
