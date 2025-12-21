@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是 [byte-wrangler]
 
 ### 🚀 后端 Java 开发工程师
 
@@ -150,7 +150,7 @@
 ## 📫 联系方式
 
 - 📧 Email: wuqiang.work@qq.com
-- 📝 博客: [你的博客](https://byte-wrangler.github.io/)
+- 📝 博客: [byte-wrangler‘s blog](https://byte-wrangler.github.io/)
 - 🐦 微信: wuqiangicq
 
 ---
