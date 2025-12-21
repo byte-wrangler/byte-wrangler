@@ -19,7 +19,7 @@
 - 💼 专注于 **业务模块抽象**、**领域驱动设计**、**业务Ai-Agent构建**
 - 🌱 正在深入学习 **agent构建范式** 和 **SDD Ai-Coding**
 - 💡 热衷于研究 **框架原理**、**框架思想** 和 **手搓轮子**
-- 📝 在 [我的博客](https://byte-wrangler.github.io/){:target="_blank"} 分享技术心得
+- 📝 在 [我的博客](https://byte-wrangler.github.io/)分享技术心得
 - 💬 欢迎与我交流 Java 后端、业务抽象、ai-coding、agent构建等话题
 
 ---
@@ -118,7 +118,7 @@
 - [分布式事务解决方案对比](博客链接)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [更多文章...](你的博客链接)
+➡️ [更多文章...](https://byte-wrangler.github.io/)
 
 ---
 
